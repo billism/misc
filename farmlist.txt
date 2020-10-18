@@ -2,5 +2,13 @@
 thinbug.com
 stackoverrun.com
 coder.work
+stackoom.com
+cnpython.com
+pythonheidong.com
+codenong.com/
+xbuba.com
+uwenku.com
+mlog.club
 # 其他
+hotbak.net
 kknews.cc
